@@ -3,3 +3,9 @@
 ===== 2024-02-04 20:57:20 =====
 - added file git_to_log.py
 - Initial commit
+
+
+===== 2024-02-04 21:38:59 =====
+- (GPT) wrote changelog_from_git_commits program, used for code-journal project. wrote rough draft of blog post about it. Generated a PAT (personal access token) from inside dev settings in gitHub, and pasted that into 'Windows Credential Manager' to allow remote work from other directories and computers.
+- added file git_to_log.py
+- Initial commit
