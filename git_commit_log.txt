@@ -1,0 +1,5 @@
+
+
+===== 2024-02-04 20:57:20 =====
+- added file git_to_log.py
+- Initial commit
