@@ -15,3 +15,8 @@
 - ssh into nanode built some text files
 - searched for quotes to add to game
 - added 1 name to newsletter
+
+===== 2024-02-15 22:57:20 =====
+- organized ggd -- found and added store icons(pic, name, desc, css)
+- persons pics with story (bioshock scr shot)
+- worked on profile, achievmts a little
