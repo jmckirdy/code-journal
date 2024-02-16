@@ -20,3 +20,4 @@
 - organized ggd -- found and added store icons(pic, name, desc, css)
 - persons pics with story (bioshock scr shot)
 - worked on profile, achievmts a little
+- decided to simply extend @keyframes as single css statement instead of heavy js for creating a bounce with the clicker. ie; more procedural lines to make forge bounce.
