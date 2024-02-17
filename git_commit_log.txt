@@ -1,5 +1,3 @@
-
-
 ===== 2024-02-04 20:57:20 =====
 - added file git_to_log.py
 - Initial commit
@@ -21,3 +19,6 @@
 - persons pics with story (bioshock scr shot)
 - worked on profile, achievmts a little
 - decided to simply extend @keyframes as single css statement instead of heavy js for creating a bounce with the clicker. ie; more procedural lines to make forge bounce.
+
+===== 2024-02-17 =====
+- wrote up pros/cons for Square vs SquareSpace for Angie.
