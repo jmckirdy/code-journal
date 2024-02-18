@@ -22,3 +22,4 @@
 
 ===== 2024-02-17 =====
 - wrote up pros/cons for Square vs SquareSpace for Angie.
+ssh into nanode, tarboled some stuff, worked in terminal.
