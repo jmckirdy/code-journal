@@ -26,3 +26,5 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - wrote blog post 'Create PAT for GitHub on Windows'
 - wrote, scheduled blog post 'How I Got My GitHub Squares Full..."
 - worked on gzip, bzip2 xz compression of large text files in Gentoo nanode.
+- @ night - learned subdomain vs. subdirectory for johnmckirdy.com (planned out ways to connect new projects)
+- studied leetcode, hypermedia (htmx)
