@@ -28,3 +28,13 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - worked on gzip, bzip2 xz compression of large text files in Gentoo nanode.
 - @ night - learned subdomain vs. subdirectory for johnmckirdy.com (planned out ways to connect new projects)
 - studied leetcode, hypermedia (htmx)
+
+===== 2024-02-19 =====
+- setup phpMyAdmin, MySQL db on siteground
+- exported then imported db, had to change login.php file,
+- changed collation of new db to UTF8_unicode_ci, as it didn't match 
+
+===== 2024-02-20 =====
+- read sitegrounds docs on domain redirects/ A, AAAA, CPAN, TXT records
+- setup phpMyAdmin, MySQL db on siteground
+- siteground can see the code <title> but store.johnmckirdy can't connect to db.
