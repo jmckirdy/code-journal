@@ -25,7 +25,7 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-02-18 =====
 - wrote blog post 'Create PAT for GitHub on Windows'
 - wrote, scheduled blog post 'How I Got My GitHub Squares Full..."
-- worked on gzip, bzip2 xz compression of large text files in Gentoo nanode.
+- worked on gzip, bzip2, & xz compression of large text files in Gentoo nanode.
 - @ night - learned subdomain vs. subdirectory for johnmckirdy.com (planned out ways to connect new projects)
 - studied leetcode, hypermedia (htmx)
 
@@ -38,3 +38,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - read sitegrounds docs on domain redirects/ A, AAAA, CPAN, TXT records
 - setup phpMyAdmin, MySQL db on siteground
 - siteground can see the code <title> but store.johnmckirdy can't connect to db.
+
+===== 2024-02-22 =====
+-  **WEBSITE UPDATES WORKED, (Demo Video, Use App links i added) i was so stuck, but it takes 72 hours for the internet to figure out your changes you silly goose.
+-  SQL database (foodstore) still not connected, the DNS record is probably not pointed at store.jm.com. something in redirects maybe
+
