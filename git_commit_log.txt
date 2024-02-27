@@ -43,5 +43,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -  **WEBSITE UPDATES WORKED, (Demo Video, Use App links i added) i was so stuck, but it takes 72 hours for the internet to figure out your changes you silly goose.
 -  SQL database (foodstore) still not connected, the DNS record is probably not pointed at store.jm.com. something in redirects maybe
 
-===== 2024-02-22 =====
-- Found some audios for forge clicker, building button, and a few more
+===== 2024-02-26 =====
+- Found some audios for forgeCraft (clicker, building button, and extras)
+
+===== 2024-02-27 =====
+- 
