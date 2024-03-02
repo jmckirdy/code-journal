@@ -47,4 +47,5 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - Found some audios for forgeCraft (clicker, building button, and extras)
 
 ===== 2024-02-27 =====
-- 
+- studied steve.griffith php courses pdo 
+- cleared emails, one for P.A.T.
