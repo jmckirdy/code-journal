@@ -49,3 +49,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-02-27 =====
 - studied steve.griffith php courses pdo 
 - cleared emails, one for P.A.T.
+
+===== 2024-03-06 =====
+- in a diff. dir. created the login/register page html, css
+- cloned open source scroll js, put in wamp folder
+- added scroll jpgs to (working) local directory
