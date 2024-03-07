@@ -54,3 +54,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - in a diff. dir. created the login/register page html, css
 - cloned open source scroll js, put in wamp folder
 - added scroll jpgs to (working) local directory
+
+-updated art assest for ForgeCraft, worked design, gdd.
+-BACKUP UPDATE ForgeCraft, Coding dir. -> USB
