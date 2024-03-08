@@ -57,3 +57,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 -updated art assest for ForgeCraft, worked design, gdd.
 -BACKUP UPDATE ForgeCraft, Coding dir. -> USB
+
+===== 2024-03-07 =====
+- implemented css
