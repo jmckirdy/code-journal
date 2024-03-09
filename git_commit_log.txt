@@ -60,3 +60,7 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-03-07 =====
 - implemented css
+
+===== 2024-03-08 =====
+- got audio (swordWoosh sound) for clicker working
+- got audio for shopButtons working
