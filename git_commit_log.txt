@@ -64,3 +64,11 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-08 =====
 - got audio (swordWoosh sound) for clicker working
 - got audio for shopButtons working
+
+===== 2024-03-09 =====
+- re-design of FC Tables
+-INSERT data into phpMyAdmin tables
+
+===== 2024-03-10 =====
+- more re-design of FC Tables
+- INSERT data into exel tables
