@@ -72,3 +72,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-10 =====
 - more re-design of FC Tables
 - INSERT data into exel tables
+
+===== 2024-03-11 =====
+- NADA/ NIL
