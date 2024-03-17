@@ -83,4 +83,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-16 =====
 - INSERTED pics and data into buildings table. phpMyAdmin does NOT like my building pics from FIGMA!! it is OK with jpg, webp; but NOT my paticular pics which are png. it seems to be currupted from being repeatedly changed. TODO: try exporting images in jpg or diff format that myAdmin likes. YOURS ARE CURRUPTED!!
 - VS-code: changed mysqli() function to use buildings table
--
+- imagetest working 100%
+- added include() so that login.php works
+
+
+
