@@ -79,3 +79,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-15 =====
 - Some writing the story of the character for 'Spells, Temp Punish, Maso' 
 - added David's email to list, send him gH collab invite, story spreadsheet, and art requirements
+
+===== 2024-03-16 =====
+- INSERTED pics and data into buildings table. phpMyAdmin does NOT like my building pics from FIGMA!! it is OK with jpg, webp; but NOT my paticular pics which are png. it seems to be currupted from being repeatedly changed.
+- VS-code: changed mysqli() function to use buildings table
+-
