@@ -86,5 +86,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 - imagetest working 100%
 - added include() so that login.php works
 
-
-
+===== 2024-03-17 =====
+- FB Marketing post JMdev page. A copy is in goog docs too. 
+- Lots of FC coding
