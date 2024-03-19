@@ -89,3 +89,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-17 =====
 - FB Marketing post JMdev page. A copy is in goog docs too. 
 - Lots of FC coding
+
+===== 2024-03-18 =====
+- FC CSS
