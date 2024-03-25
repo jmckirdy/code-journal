@@ -95,6 +95,9 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-03-24 =====
 *Starting to feel Burn Out-just need a mindset shift
--Worked on Codex Arcanum, similar names a SourceMage
+-Worked on Codex Arcanum / Ye Olde Codger, similar names as SourceMage
 ->Back & Front end
 -Worked on DSA
+
+===== 2024-03-25 =====
+-Codex Arcanum, css, highlevel planning
