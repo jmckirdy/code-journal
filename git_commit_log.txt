@@ -92,3 +92,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-03-18 =====
 - FC CSS
+
+===== 2024-03-24 =====
+*Starting to feel Burn Out-just need a mindset shift
+-Worked on Codex Arcanum, similar names a SourceMage
+-Worked on DSA
