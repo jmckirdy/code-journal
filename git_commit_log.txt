@@ -102,3 +102,7 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-25 =====
 -Codex Arcanum, css, highlevel planning
 -Codex, css, created fa account, fa icons in <i> tag
+
+===== 2024-03-26 =====
+-Codex Arcanum, database design
+-Codex Arcanum, glossary of terms
