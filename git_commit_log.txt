@@ -116,3 +116,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -reduced whitespace in 'search.inc.php', Some Testing.
 -found weird bug in news.inc, it is connected to diff db, so no error. But when i connect to proper one there are 2 connections so it warns me that is not ok.
 -updated register.inc page with some cool shit.
+
+===== 2024-03-28 =====
+-Codex Arcanum, got cookies working
+-Wrote practice PHP using GET, POST superglobals
+
