@@ -110,4 +110,4 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-27 =====
 -Codex Arcanum, updating old recipes into codex. ie: legacy migration
 -showcodex.inc.php working. had to change from codexid to id in query string in _GET method.
--
+-login/logout done
