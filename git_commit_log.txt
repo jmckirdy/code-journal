@@ -111,3 +111,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -Codex Arcanum, updating old recipes into codex. ie: legacy migration
 -showcodex.inc.php working. had to change from codexid to id in query string in _GET method.
 -login/logout done
+-made lots of changes to newcomment, addcomment .inc.php files, Cookies and login have to work b4 validating, I did INSERT into `comments` tho and that seems to have worked.
+-changed some 'Structure' (tab in rdms) of `comments` table, mostly max int values where either too high or low for appropriate fields.
+-
