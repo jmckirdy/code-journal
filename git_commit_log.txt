@@ -118,6 +118,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -updated register.inc page with some cool shit.
 
 ===== 2024-03-28 =====
--Codex Arcanum, got cookies working
--Wrote practice PHP using GET, POST superglobals
 
+-Wrote practice PHP using GET, POST superglobals
+-Watched Job market takes some good videos.
+--SEO research for mountainVoice
+-learned about Apache Spark Big data, IceBerg/ working in Hadoop. buildinh DATA PIPELINE using these
