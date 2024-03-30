@@ -132,5 +132,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-03-30 =====
 -Codex, discovered cookies may be sufficiently correct, it was the LOGOUT.PHP file that still showed the old value instead of 'valid_codex_user', so it would state 'Sorry, you are not currently logged in'. After I changed it, it no longer does this.
-
+-Codex, got the $id = $_POST['id']; working in addcomment.inc.php by simply taking it out of the sql query that is there. It was conflicting with the autoinc feature of the PK commentid in db. Now db properly generates the PK number correctly.
+-Codex, 
 
