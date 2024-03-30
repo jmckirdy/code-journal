@@ -129,3 +129,8 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -user registration/login work good, but there is only 1 piece of info in $_SESSION[],(using echo var_dump) which is the userid=$userid. Looking at var_dump for ways _SESSION could be incorrect.
 
 -Read from Session data, (mysql recipe course Ch.11) InnoDB as a more advanced storage engine. vs. myIsam (ie: for things like data analytics)
+
+===== 2024-03-30 =====
+-Codex, discovered cookies may be sufficiently correct, it was the LOGOUT.PHP file that still showed the old value instead of 'valid_codex_user', so it would state 'Sorry, you are not currently logged in'. After I changed it, it no longer does this.
+
+
