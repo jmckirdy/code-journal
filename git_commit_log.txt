@@ -126,4 +126,4 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-28 =====
 -Codex, tracked down bug in adduser.inc.php. ->The last block of code, $query value was 1 short since the db table had an extra, so i dropped username column from the db as it was redundant.
 -switched over validateuser.inc.php
--trying to get cookies working Echo out $_SESSION[] for debug purposes.
+-user registration/login work good, but there is only 1 piece of info in $_SESSION[],(using echo var_dump) which is the userid=$userid
