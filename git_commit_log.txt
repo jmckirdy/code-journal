@@ -137,4 +137,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -Codex, then changed the FK to allow updates, so now i can INSERT data again.
 -Codex, added a hr in main.inc.php
 -Codex, added FK to codices, had to ensure that the REFERENCE to catid was the exact same data, since it had failed for this reason, at first.
+-Codex, cookies working and test comments, and all pages B4 DOING ABOVE!
+-Codex, Fixed all comments are going into 2nd codex (Japanese one), they need to stick to the right codex.
 
