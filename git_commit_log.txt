@@ -135,4 +135,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -Codex, got the $id = $_POST['id']; working in addcomment.inc.php by simply taking it out of the sql query that is there. It was conflicting with the autoinc feature of the PK commentid in db. Now db properly generates the PK number correctly.
 -Codex, Change categories, codices, comments storageEngine=InnoDB;  (since they do need FK),
 -Codex, then changed the FK to allow updates, so now i can INSERT data again.
+-Codex, added a hr in main.inc.php
+-Codex, added FK to codices, had to ensure that the REFERENCE to catid was the exact same data, since it had failed for this reason, at first.
 
