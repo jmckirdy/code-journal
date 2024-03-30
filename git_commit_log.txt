@@ -126,4 +126,6 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-03-28 =====
 -Codex, tracked down bug in adduser.inc.php. ->The last block of code, $query value was 1 short since the db table had an extra, so i dropped username column from the db as it was redundant.
 -switched over validateuser.inc.php
--user registration/login work good, but there is only 1 piece of info in $_SESSION[],(using echo var_dump) which is the userid=$userid
+-user registration/login work good, but there is only 1 piece of info in $_SESSION[],(using echo var_dump) which is the userid=$userid. Looking at var_dump for ways _SESSION could be incorrect.
+
+-Read from Session data, (mysql recipe course Ch.11) InnoDB as a more advanced storage engine. vs. myIsam (ie: for things like data analytics)
