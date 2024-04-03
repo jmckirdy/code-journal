@@ -142,3 +142,7 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-03-31 =====
 -ForgeCraft, crafted and sent email to potential art director. karly
+
+===== 2024-04-02 =====
+-ForgeCraft, basic tooltip running in localhost
+-ForgeCraft, expanded design on tooltips (Store, Building) and moved them into main project 
