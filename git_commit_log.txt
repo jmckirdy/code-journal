@@ -146,3 +146,10 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 ===== 2024-04-02 =====
 -ForgeCraft, basic tooltip running in localhost
 -ForgeCraft, expanded design on tooltips (Store, Building) and moved them into main project 
+
+===== 2024-04-05 =====
+-ForgeCraft, Using AI, wrote more jokes, quotes, storyline details in Art doc, NEED TO INSERT into db.
+-ForgeCraft, TODO: INSERT all tutorials.txt, quotes, jokes, events_and_items, 
+  --Needs: achievemts, buildings table filling 
+
+
