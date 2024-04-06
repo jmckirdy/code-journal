@@ -152,4 +152,5 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 -ForgeCraft, TODO: INSERT all tutorials.txt, quotes, jokes, events_and_items, 
   --Needs: achievemts, buildings table filling 
 
-
+===== 2024-04-06 =====
+-Codex, lots of CSS
