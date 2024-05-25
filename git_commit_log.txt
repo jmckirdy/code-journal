@@ -154,3 +154,7 @@ ssh into nanode, tarboled some stuff, worked in terminal.
 
 ===== 2024-04-06 =====
 -Codex, lots of CSS
+
+===== 2024-05-25 =====
+-watched 'Internet of Bugs' educational content
+-took a 2 week break from coding.
